@@ -22,5 +22,9 @@ return
 Send {WheelDown}
 return
 
+; Hotkey to press End and type a semicolon
+RAlt::
+Send, {End};
+return
 
 
