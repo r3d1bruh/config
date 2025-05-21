@@ -8,3 +8,6 @@ Create a folder named data inside the extracted VSCodium directory.
 |   |- data
 |   |- bin
 |   |- ...
+
+Set current directory to environment variables in cmd
+setx PATH "%PATH%;%CD%"
