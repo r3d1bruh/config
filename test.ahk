@@ -27,7 +27,8 @@ RAlt::
 Send, {End};
 return
 
-!t::Run, cmd.exe
+!t::Run *RunAs cmd.exe
+
 
 
 
