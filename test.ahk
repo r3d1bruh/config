@@ -27,4 +27,7 @@ RAlt::
 Send, {End};
 return
 
+!t::Run, cmd.exe
+
+
 
