@@ -1,3 +1,6 @@
+CS2 launch options
+-w 1920 -h 1080 -windowed -noborder -console +exec autoexec.cfg
+
 win11Terminal
 %LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState
 
@@ -11,3 +14,4 @@ Create a folder named data inside the extracted VSCodium directory.
 
 Set current directory to environment variables in cmd
 setx PATH "%PATH%;%CD%"
+
